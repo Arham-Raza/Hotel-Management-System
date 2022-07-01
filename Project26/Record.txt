@@ -1,0 +1,71 @@
+Room number 20
+Name Areeb Ali
+Address Safoora Chowangi Saima Apartments
+NIC 42201-4122655-9
+Mobile No. 0334-1225489
+Bill 450
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 9
+
+
+Room number 28
+Name Arham Raza
+Address House No 2258 PIB colony Karachi
+NIC 42201-4688766-9
+Mobile No. 0334-3664034
+Bill 550
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 11
+
+
+Room number 20
+Name Zohair Haris
+Address Police Society Malir Cantt
+NIC 42201-4822577-9
+Mobile No. 0333-2667594
+Bill 250
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 5
+
+
+Room number 32
+Name Sheikh Yasaa
+Address Nazimabad no 3 house no 2227
+NIC 42201-4655933-9
+Mobile No. 0311-5337658
+Bill 700
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 7
+
+
+Room number 49
+Name Hadi Mansoor
+Address Gulberg Town
+NIC 42201-4877655-9
+Mobile No. 0309-3889440
+Bill 450
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 3
+
+
+Room Number 39
+Name Gufran Bhatti
+Address gufranbhatti5@gmail.com
+NIC 4220157844269
+Number 03232135815
+Bill 300
+Laundary Bill 0
+Food Bill 0
+Drop Bill 0
+Nights 3
+
